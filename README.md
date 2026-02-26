@@ -11,7 +11,11 @@ This project was completed as part of the Google Data Analytics Professional Cer
 
 Tools & Technologies: Python (Numpy, Pandas, Matplotlib), Jupyter Notebook, Excel (for initial exploration)
 
-Data Source: the dataset consists of 12 monthly trip files for 2025, provided by Cyclistic (fictional company name). The data includes ride timestamps, station information, rideable type, and membership status. You can refer to the dataset [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+**Data Source:**
+
+The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). The data can be accessed [here](https://divvy-tripdata.s3.amazonaws.com/index.html). This project does not redistribute the raw datasets and is intended for educational purposes only.
+
+I used the data consists of 12 monthly trip files for 2025, provided by Cyclistic (fictional company name). The data includes ride timestamps, station information, rideable type, and membership status. 
 
 **Data Processing:**
 * Combined 12 monthly datasets into a single consolidated dataset
